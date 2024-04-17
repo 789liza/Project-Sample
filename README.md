@@ -1,2 +1,2 @@
 # Project-Sample
-for storing files related to project
+for storing files related to project and information
